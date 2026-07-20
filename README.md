@@ -6,46 +6,25 @@ Esta es una aplicación móvil desarrollada en **Flutter** que implementa un sis
 
 ---
 
-## ✨ Características Principales
-
-- **Diseño UI/UX Pro Max:** Interfaz construida con principios de diseño modernos, incluyendo:
-  - Tema Oscuro (Dark Theme) con gradientes cósmicos inmersivos.
-  - Tarjetas y formularios con efecto *Glassmorphism* (Cristal esmerilado).
-  - Micro-animaciones y efectos de entrada escalonados (*Staggered Animations*).
-  - Transiciones fluidas y botones interactivos estilo neón.
-- **Gestión de Libros (CRUD):**
-  - **Crear:** Agregar nuevos libros indicando Título, Autor y Año de publicación.
-  - **Leer:** Visualización de todos los libros en tiempo real mediante *FutureBuilder*.
-  - **Actualizar:** Edición de la información de los libros ya guardados.
-  - **Eliminar:** Borrado seguro de la base de datos previa confirmación visual.
-- **Identificadores Únicos (UUID):** Generación de IDs robustos (texto) en la base de datos usando el paquete estándar `uuid`.
-- **Base de Datos Local:** Implementación robusta utilizando la librería `sqflite_common_ffi` para garantizar rendimiento.
-
----
-
 ## 📸 Capturas de Pantalla y Funcionamiento
 
 > **Nota:** Puedes agregar tus capturas arrastrándolas desde tu explorador de archivos y soltándolas directamente aquí debajo de cada título en GitHub o en tu editor.
 
 ### 1. Pantalla Principal (Lista de Libros)
-*(Coloca aquí tu captura de la lista de libros mostrando el fondo oscuro y las tarjetas)*
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/87b57442-a814-46aa-890f-5644689ebcf6" />
+
 
 ### 2. Pantalla de Formulario (Crear/Editar)
-*(Coloca aquí la captura del formulario estilo Glassmorphism)*
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8b12236a-9e66-4445-a76c-e0a0fdc38003" />
+
 
 ### 3. Diálogo de Confirmación (Eliminar)
-*(Coloca aquí la captura del pop-up flotante que aparece al intentar eliminar un libro)*
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/9712e5c6-5235-489c-be14-c7081cd349e5" />
+
+
 
 ---
 
-## 🛠 Tecnologías y Paquetes Utilizados
-
-- **[Flutter](https://flutter.dev/):** Framework principal.
-- **[sqflite_common_ffi](https://pub.dev/packages/sqflite_common_ffi):** Base de datos relacional SQLite para el almacenamiento local multiplataforma.
-- **[path](https://pub.dev/packages/path) & [path_provider](https://pub.dev/packages/path_provider):** Gestión de rutas del sistema de archivos.
-- **[uuid](https://pub.dev/packages/uuid):** Generación de IDs.
-
----
 
 ## 🚀 Cómo ejecutar el proyecto
 

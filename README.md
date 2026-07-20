@@ -8,7 +8,7 @@ Esta es una aplicación móvil desarrollada en **Flutter** que implementa un sis
 
 ## 📸 Capturas de Pantalla y Funcionamiento
 
-> **Nota:** Puedes agregar tus capturas arrastrándolas desde tu explorador de archivos y soltándolas directamente aquí debajo de cada título en GitHub o en tu editor.
+
 
 ### 1. Pantalla Principal (Lista de Libros)
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/87b57442-a814-46aa-890f-5644689ebcf6" />
